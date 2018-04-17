@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-require 'zip/zip'
+#require 'zip/zip'
 
 module Rusk
   class Book
